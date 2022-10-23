@@ -1,0 +1,113 @@
+body {
+    background-image: url('../images/annie-spratt-osuiatBDTww-unsplash.jpg');
+    background-attachment: fixed;
+  background-size: 100% 100%;
+  position: relative;
+}
+.content{
+
+  
+    
+    background: fixed;
+    margin: 0 auto;
+    display: grid;
+   
+}
+.row5{
+  
+  display: flex;
+  padding-top: 50px;
+
+}
+.row4{
+  display: flex;
+  padding-top: 50px;
+  }
+.row5{
+display: flex;
+padding-top: 50px;
+}
+.row3{
+  display: flex;
+  padding-top: 50px;
+  }
+.row2{
+display: flex;
+padding-top: 50px;
+
+}
+.row1{
+  display: flex;
+  
+  padding-top: 50px;
+}
+.row1 img{ 
+  padding-right: 250px;
+
+}
+.row2 img{ 
+  padding-right: 250px;
+
+}
+.row3 img{ 
+  padding-right: 250px;
+
+}
+.row4 img{ 
+  padding-right: 250px;
+  
+}
+.row5 img{ 
+  padding-right: 250px;
+ 
+}
+.heading{
+  color: green;
+}
+
+.row1 h1{
+  color: green;
+}
+.row2 h1{
+  color: green;
+}
+.row3 h1{
+  color: green;
+}
+.row4 h1{
+  color: green;
+}
+.row5 h1{
+  color: green;
+}
+
+.lift-in{
+  display: flex;
+  padding-left: 20px;
+}
+.outer_button{
+  display: flex;
+ 
+ 
+}
+.btn1{
+  margin-left: 150px;
+
+}
+.btn2{
+  margin-left: 320px;
+ 
+}
+.btn3{
+  margin-left: 320px;
+}
+.heading{
+  
+  position: sticky;
+  top: 0px;
+  
+}
+.img img{
+  width: 500px;
+  height: 500px;
+}
